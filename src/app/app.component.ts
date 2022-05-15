@@ -33,14 +33,12 @@ export class AppComponent {
   onInput(amount: number | string) {
     this.currentTracsaction = amount;
     this.buyingPriceA = 1
-    // console.log(Number(this.buyingPriceA))
   }
   
   // quantity of bitcoin to buy
     onQuantity(quantityBtc: number | string) {
       this.currentTracsaction = quantityBtc;
       this.buyingPriceQ = 1
-      console.log(this.currentTracsaction)
     }
 
   // buy transaction
