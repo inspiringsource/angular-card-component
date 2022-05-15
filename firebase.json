@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/crypto-finance-challenge",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
