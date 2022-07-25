@@ -1,6 +1,6 @@
 # Angular card component
 
-This was a two assignment. I am not an angular developer but it was fun working with the framework for a change.
+This was a two hours assignment. I am not an angular developer but it was fun working with the framework for a change.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
